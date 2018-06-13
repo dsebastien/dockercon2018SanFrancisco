@@ -1,6 +1,10 @@
 # Building you Docker tech stack
 
-Slides: https://www.bretfisher.com/dockercon18/
+Bret Fisher
+
+Links:
+* Slides: https://www.bretfisher.com/dockercon18/
+* https://github.com/BretFisher/awesome-docker
 
 ## Orchestrator
 High availability vs auto-recovery

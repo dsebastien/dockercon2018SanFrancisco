@@ -1,5 +1,7 @@
 # Docker strategy
 
+Lee Namba (Docker Inc)
+
 ## People
 How to build the container platform for everyone
 
