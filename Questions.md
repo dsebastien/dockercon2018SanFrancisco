@@ -6,3 +6,4 @@
 * vs Storage
 * vs Security: image signatures, image vulnerability scanning, ...
 * vs Monitoring
+* vs Logging
